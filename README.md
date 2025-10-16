@@ -1,1 +1,2 @@
-CREATE A MAP INTO sample_inputs A MAP WITH OTHER FILES AND ADD FILES cv1.txt cv2.txt cv3.txt jd.txt THERE
+CREATE A MAP WITH ALL THE FILES AND CREATE IN THAT MAP A MAP sample_inputs AND ADD FILES cv1.txt cv2.txt cv3.txt jd.txt THERE
+
